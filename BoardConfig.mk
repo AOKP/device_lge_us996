@@ -22,7 +22,7 @@ DEVICE_PATH := device/lge/us996
 TARGET_OTA_ASSERT_DEVICE := us996
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_us996_defconfig
+TARGET_KERNEL_CONFIG := lineageos_h918_defconfig
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
